@@ -37,10 +37,14 @@
 3. Build the project for production: `npm run build`
 4. Test the application using a browser or Postman for API testing
 
+* [EditMate Render Link](https://editmate.onrender.com/)
 
-* [SocialNetX Repository](https://github.com/IVIonsters/CodeChronicles)
+* [EditMate Repository](https://github.com/IVIonsters/Editmate)
 
-* ![SocialNetX Screenshot](./assets/images/Screenshot%202024-07-18%20184550.png)
+* ![EditMate Screenshot](./Assets/Screenshot%202024-07-18%20214425.png)
+* ![EditMate Screenshot](./Assets/Screenshot%202024-07-18%20214524.png)
+* ![EditMate Screenshot](./Assets/Screenshot%202024-07-18%20214543.png)
+* ![EditMate Screenshot](./Assets/Screenshot%202024-07-18%20214606.png)
 
 
 ## Credits
